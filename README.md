@@ -67,7 +67,7 @@ travel-planner-ai/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/sairamesh2004/Trip-planner-ai.git
+git clone https://github.com/sairamesh2004/trip-planner-ai.git
 ```
 
 ### 2. Navigate to the backend
